@@ -21,7 +21,6 @@ Background in accounting & internal audit — which means I care deeply about da
 
 | | |
 |---|---|
-| 🏗️ **Building** | SIMRS — patient registration, multi-channel queuing, BPJS & Kemenkes integration |
 | 🧠 **Learning** | AI Engineering — Gemini API, RAG pipelines, embeddings at the Go inference layer |
 | 🎯 **Targeting** | AI for audit automation, invoice anomaly detection, financial compliance |
 

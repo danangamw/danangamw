@@ -43,15 +43,9 @@ Background in accounting & internal audit — which means I care deeply about da
 
 ---
 
-## GitHub Stats
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danangamw&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danangamw&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danangamw&theme=tokyonight&hide_border=true" />
-</p>
+> Coming soon — currently heads-down building. Check back later.
 
 ---
 
